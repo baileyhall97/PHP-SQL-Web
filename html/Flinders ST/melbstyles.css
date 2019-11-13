@@ -1,0 +1,66 @@
+/* melbStyles.css */
+body {
+	width: 100%;
+	max-width: 1250px;
+	background-image: url("FSS-1800.jpg")
+}
+p {
+	font-family: "Arial", "Helvetica", sans-serif;
+	font-size: 14px;	
+	text-align: center; 
+}
+header {
+	width: 100%;
+	text-align: center; 
+}
+img src {
+	width: 100%;
+	max-width: 925px;
+	min-width: 480px;
+	text-align: center; 
+}
+ul {
+	list-style-type: none;
+	padding: 1px;
+	margin: zero;
+	width: 100%;
+	text-align: center; 
+}
+li {
+	display: inline;
+    float: left;
+	width: 20%;
+	text-align: center; 
+	background-color: #673335;
+}
+a:unvisited {
+	display: block;
+	color: white;
+	text-align: center; 
+}
+a:visited {
+	display: block;
+	color: white;
+	text-align: center; 
+}
+a:hover {
+	color: white;
+	text-align: center; 
+}
+a:focus {
+	background-color: #633;
+	color: white;
+	text-align: center; 
+}
+article {
+	padding: 20px;
+	clear: left;
+	text-align: center; 
+	background-color: #c0beaa;opacity:0.8
+}
+footer {
+	background-color: #948D67;
+	padding: 20px;
+	clear: left;
+}
+
